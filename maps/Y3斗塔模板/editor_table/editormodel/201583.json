@@ -1,0 +1,43 @@
+{
+    "describe": -946211126, 
+    "editor_res": false, 
+    "key": 201583, 
+    "map_name": "h70t4", 
+    "model_id": 290010, 
+    "name": -526190191, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Modern", 
+            "code_Doomsday", 
+            "code_FPS", 
+            "code_Vehicles", 
+            "code_White", 
+            "code_Metal", 
+            "code_Boat"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/201583", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 1.0, 
+    "socket_info": {
+        "\u8f7d\u5ba21": {
+            "__tuple__": true, 
+            "items": [
+                "\u8f7d\u5ba21", 
+                "Scene Root", 
+                -0.5, 
+                0.7000000000000001, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_201583"
+}

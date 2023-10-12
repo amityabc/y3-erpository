@@ -1,0 +1,88 @@
+[
+ {
+  "name": "\u704c\u6728", 
+  "key": "M7mYjyUbEe6kXDDQQuc0bn", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     134219819, 
+     "\u704c\u6728", 
+     "editor_decoration", 
+     1
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     134262810, 
+     "\u704c\u6728", 
+     "editor_decoration", 
+     1
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     134229827, 
+     "\u704c\u6728", 
+     "editor_decoration", 
+     1
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     134266537, 
+     "\u704c\u6728", 
+     "editor_decoration", 
+     1
+    ]
+   }
+  ], 
+  "weight": 4
+ }, 
+ {
+  "name": "\u6811", 
+  "key": "4ESygCUaEe6VfTDQQuc0bo", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     134221827, 
+     "\u4e91\u6749", 
+     "editor_decoration", 
+     1
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     134278892, 
+     "\u4e91\u6749", 
+     "editor_decoration", 
+     1
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     134223127, 
+     "\u4e91\u6749", 
+     "editor_decoration", 
+     1
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     134255673, 
+     "\u4e91\u6749", 
+     "editor_decoration", 
+     1
+    ]
+   }
+  ], 
+  "weight": 4
+ }
+]

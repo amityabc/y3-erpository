@@ -1,0 +1,159 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "K0diXiUaEe68nDDQQuc0bv", 
+    "\u690d\u88ab"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    1, 
+    "JogsniUaEe6YRjDQQuc0bg", 
+    "\u5efa\u7b51"
+   ]
+  }
+ ], 
+ "d": {
+  "134219819": {
+   "__tuple__": true, 
+   "items": [
+    "K0diXiUaEe68nDDQQuc0bv", 
+    0
+   ]
+  }, 
+  "134262810": {
+   "__tuple__": true, 
+   "items": [
+    "K0diXiUaEe68nDDQQuc0bv", 
+    1
+   ]
+  }, 
+  "134229827": {
+   "__tuple__": true, 
+   "items": [
+    "K0diXiUaEe68nDDQQuc0bv", 
+    2
+   ]
+  }, 
+  "134266537": {
+   "__tuple__": true, 
+   "items": [
+    "K0diXiUaEe68nDDQQuc0bv", 
+    3
+   ]
+  }, 
+  "134221827": {
+   "__tuple__": true, 
+   "items": [
+    "K0diXiUaEe68nDDQQuc0bv", 
+    4
+   ]
+  }, 
+  "134278892": {
+   "__tuple__": true, 
+   "items": [
+    "K0diXiUaEe68nDDQQuc0bv", 
+    5
+   ]
+  }, 
+  "134223127": {
+   "__tuple__": true, 
+   "items": [
+    "K0diXiUaEe68nDDQQuc0bv", 
+    6
+   ]
+  }, 
+  "134255673": {
+   "__tuple__": true, 
+   "items": [
+    "K0diXiUaEe68nDDQQuc0bv", 
+    7
+   ]
+  }, 
+  "134225465": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    0
+   ]
+  }, 
+  "134218749": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    1
+   ]
+  }, 
+  "134233420": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    2
+   ]
+  }, 
+  "134230235": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    3
+   ]
+  }, 
+  "134245524": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    4
+   ]
+  }, 
+  "134256743": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    5
+   ]
+  }, 
+  "134258052": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    6
+   ]
+  }, 
+  "134264147": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    7
+   ]
+  }, 
+  "134221329": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    8
+   ]
+  }, 
+  "134271227": {
+   "__tuple__": true, 
+   "items": [
+    "JogsniUaEe6YRjDQQuc0bg", 
+    9
+   ]
+  }
+ }
+}
